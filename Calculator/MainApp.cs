@@ -4,7 +4,7 @@ namespace Method
 {
     class Calculator
     {
-        public static int Plus(int a,int b)
+        public static int Plus(int a, int b)  // int는 반환형식 Plus는 메서드의 이름
         {
             return a + b;
         }
