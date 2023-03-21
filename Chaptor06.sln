@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Ca
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci", "ConsoleApp1\Fibonacci.csproj", "{6491787E-1CE7-41B4-89F1-5AE6660EB637}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwaoByValue", "SwaoByValue\SwaoByValue.csproj", "{6E559B61-69A4-46D4-A243-7BFB5C4E219F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwapByRef", "p195_ex2\SwapByRef.csproj", "{0C3B0ED0-ABAF-42F5-8E41-60E7F62BE2CB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{6491787E-1CE7-41B4-89F1-5AE6660EB637}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6491787E-1CE7-41B4-89F1-5AE6660EB637}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6491787E-1CE7-41B4-89F1-5AE6660EB637}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E559B61-69A4-46D4-A243-7BFB5C4E219F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E559B61-69A4-46D4-A243-7BFB5C4E219F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E559B61-69A4-46D4-A243-7BFB5C4E219F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E559B61-69A4-46D4-A243-7BFB5C4E219F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C3B0ED0-ABAF-42F5-8E41-60E7F62BE2CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C3B0ED0-ABAF-42F5-8E41-60E7F62BE2CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C3B0ED0-ABAF-42F5-8E41-60E7F62BE2CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C3B0ED0-ABAF-42F5-8E41-60E7F62BE2CB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

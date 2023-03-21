@@ -12,11 +12,11 @@ namespace ConsoleApp1
             }
             else
             {
-                return Fibonacci(n-1) + Fibonacci(n - 2);
+                return Fibonacci(n - 1) + Fibonacci(n - 2);
             }
         }
-   
-        static void PrintProfile(string name,string phone)
+
+        static void PrintProfile(string name, string phone)
         {
             if (name == "")
             {
