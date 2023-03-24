@@ -15,7 +15,7 @@ namespace RefReturn
             Console.WriteLine($"Price : {price}");
         }
     }
-  
+
     class MainApp
     {
         static void Main(string[] args)
