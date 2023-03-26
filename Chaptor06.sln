@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Ca
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci", "ConsoleApp1\Fibonacci.csproj", "{6491787E-1CE7-41B4-89F1-5AE6660EB637}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwaoByValue", "SwaoByValue\SwaoByValue.csproj", "{6E559B61-69A4-46D4-A243-7BFB5C4E219F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwapByValue", "SwaoByValue\SwapByValue.csproj", "{6E559B61-69A4-46D4-A243-7BFB5C4E219F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwapByRef", "p195_ex2\SwapByRef.csproj", "{0C3B0ED0-ABAF-42F5-8E41-60E7F62BE2CB}"
 EndProject

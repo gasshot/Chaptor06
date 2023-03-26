@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace SwaoByValue
+namespace SwapByValue
 {
     class MainApp
     {
