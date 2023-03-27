@@ -11,6 +11,7 @@ namespace UsingOut
             //int[] abc = new int[2];
             //abc[0] = a / b;
             //abc[1] = a % b;
+
         }
 
         static void Main(string[] args)
@@ -24,7 +25,7 @@ namespace UsingOut
             Divide(a, b, out int c, out int d);
             //Divide(a, b, int[] cde[0], out int d);
 
-            Console.WriteLine($"a:{0}, b:{1}, a/b:{2},a%b:{3}", a, b, c, d);
+            Console.WriteLine("a:{0}, b:{1}, a/b:{2},a%b:{3}", a, b, c, d);
         }
     }
 }
