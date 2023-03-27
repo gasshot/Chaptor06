@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingParams", "UsingParams\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OptionalParameter", "OptionalParameter\OptionalParameter.csproj", "{792FC4D0-77E5-4619-97E1-1A5FFABC44BD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocalFunction", "LocalFunction\LocalFunction.csproj", "{D63FCD21-07E5-492E-8ECE-05635D9C263F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{792FC4D0-77E5-4619-97E1-1A5FFABC44BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{792FC4D0-77E5-4619-97E1-1A5FFABC44BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{792FC4D0-77E5-4619-97E1-1A5FFABC44BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D63FCD21-07E5-492E-8ECE-05635D9C263F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D63FCD21-07E5-492E-8ECE-05635D9C263F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D63FCD21-07E5-492E-8ECE-05635D9C263F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D63FCD21-07E5-492E-8ECE-05635D9C263F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
