@@ -19,7 +19,7 @@ namespace Overloading
         static double Plus(double a, double b)
         {
             Console.WriteLine("Calling double Plus(double,double)...");
-            return a + b; 
+            return a + b;
         }
 
         static double Plus(int a, double b)
